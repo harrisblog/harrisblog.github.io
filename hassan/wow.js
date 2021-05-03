@@ -1,4 +1,4 @@
-// 首页文章卡片
+// 文章卡片
 var arr = document.getElementsByClassName("recent-post-item");
 for (var i = 0; i < arr.length; i++) {
     arr[i].classList.add("wow"); //必要项，添加wow.js标记
