@@ -1,0 +1,1 @@
+"use strict";setInterval(function(){var t=document.querySelector("span[data-show]"),e=t.nextElementSibling||document.querySelector(".first-tips"),a=document.querySelector("span[data-up]");a&&a.removeAttribute("data-up"),t.removeAttribute("data-show"),t.setAttribute("data-up",""),e.setAttribute("data-show","")},2e3);
