@@ -340,7 +340,7 @@
     <content type="html"><![CDATA[<blockquote><p>前言：</p><p>所有教程、文章都会使用下列通用参数，方便表达含义，<del>你我之间的暗号，懂的都懂</del>。本篇受 Aki 店长的启发。</p></blockquote><h2 id="教程参数说明"><a href="#教程参数说明" class="headerlink" title="教程参数说明"></a>教程参数说明</h2><table><thead><tr><th>参数名</th><th>释义</th></tr></thead><tbody><tr><td>&lt;UserName&gt;</td><td>项目托管平台注册时的用户名（包括 GitHub、Gitee 等）</td></tr><tr><td>&lt;BlogRoot&gt;</td><td>博客本地根目录</td></tr><tr><td>&lt;RepoGit&gt;</td><td>远程仓库 Git 地址</td></tr><tr><td>&lt;RepoName&gt;</td><td>远程仓库名称</td></tr><tr><td>&lt;OriginRepoGit&gt;</td><td>上游仓库 Git 地址</td></tr><tr><td>&lt;BranchName&gt;</td><td>仓库分支名称</td></tr><tr><td>&lt;Custom&gt;</td><td>自定义内容</td></tr><tr><td>&lt;FilePath&gt;</td><td>文件路径，<u>有时可能会加上文件名的后缀</u>。<br>例如：[FilePath_520.jpg]，意为 520.jpg 图片的路径</td></tr><tr><td>&lt;Copy&gt;</td><td>复制内容</td></tr><tr><td>&lt;Email&gt;</td><td>邮箱号</td></tr><tr><td>&lt;URL&gt;</td><td>链接</td></tr><tr><td>&lt;&gt; 👉 []</td><td>意为<strong>可选参数</strong></td></tr><tr><td>Git 三连</td><td>git add .<br>git commit -m “<Custom>“<br>git push origin <BranchName></td></tr><tr><td>Hexo 三连</td><td>hexo clean<br>hexo g<br>hexo s / hexo d</td></tr></tbody></table><h2 id="The-End"><a href="#The-End" class="headerlink" title="The End"></a>The End</h2><p>友友们看文章时若是有疑问请：</p><ul><li><p>先百度</p></li><li><p>实在不会欢迎在当页下方留言栏留言</p></li><li><p>或点击右上方导航栏中的<a href="https://hassanwong.top/comments/">留言树洞</a>进行留言</p></li></ul><p>最后想了解更多关于 Butterfly 主题博客的相关问题，推荐进 Aki 店长的群</p><p><img src= "https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210404/img/QQ_Group_Aki.png" alt="QQ群"></p>]]></content>
     
     
-    <summary type="html">初来乍到的友友们必看！🤝</summary>
+    <summary type="html">初次拜访的友友们必看！🤝</summary>
     
     
     
