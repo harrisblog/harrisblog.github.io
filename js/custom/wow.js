@@ -4,6 +4,12 @@ for (var i = 0; i < arr.length; i++) {
     arr[i].classList.add("wow"); //必要项，添加wow.js标记
     arr[i].classList.add("animate__zoomIn"); //必要项，添加样式动画
 }
+// 首页顶部文章导航组件
+var arr = document.getElementsByClassName("hometop-group");
+for (var i = 0; i < arr.length; i++) {
+    arr[i].classList.add("wow"); //必要项，添加wow.js标记
+    arr[i].classList.add("animate__zoomIn"); //必要项，添加样式动画
+}
 // 侧栏卡片
 var arr = document.getElementsByClassName("card-widget");
 for (var i = 0; i < arr.length; i++) {
