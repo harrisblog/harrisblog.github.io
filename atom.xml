@@ -95,6 +95,36 @@
   </entry>
   
   <entry>
+    <title>Office三剑客相关问题合集</title>
+    <link href="https://hassanwong.top/posts/bf33e044/"/>
+    <id>https://hassanwong.top/posts/bf33e044/</id>
+    <published>2021-06-07T19:09:07.000Z</published>
+    <updated>2021-07-04T22:06:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>前言：</p><p>收集了我使用微软Office办公软件时常见问题的解决方案</p></blockquote><h2 id="Office-所有办公软件"><a href="#Office-所有办公软件" class="headerlink" title="Office 所有办公软件"></a>Office 所有办公软件</h2><h3 id="Office-显示文件修复不了怎么办？"><a href="#Office-显示文件修复不了怎么办？" class="headerlink" title="Office 显示文件修复不了怎么办？"></a>Office 显示文件修复不了怎么办？</h3><p>我在网上搜索了很多方法，对我来说没有半点用，大概分为两种：</p><ol><li><p>将受保护的视图的权限全部勾掉</p></li><li><p>右键文件属性取消阻止/解除锁定，第一种方法没有用，第二种，我右键根本没有选项。之所会 Office 文件修复不了，是因为很大可能对方传给你的文件是用 WPS 编辑的，两者不兼容</p></li></ol><p><strong>解决办法</strong>：<br>在 Office 文件内点击另存为，然后打开另存为后的文件，即为正常打开。</p><h3 id="🔥激活-Office-软件"><a href="#🔥激活-Office-软件" class="headerlink" title="🔥激活 Office 软件"></a>🔥激活 Office 软件</h3><p>强推以下良心教程👍</p><p>视频教程：<a href="https://www.bilibili.com/video/BV1Lf4y1S7e2/?spm_id_from=autoNext">Office Tool Plus 系列教程之白嫖Office</a></p><p>安装教程：<a href="https://www.coolhub.top/archives/11">[安装 Office] Office Tool Plus 入门教程</a></p><p>激活教程：<a href="https://www.coolhub.top/archives/14">[激活 Office] Office Tool Plus 入门教程</a></p><h2 id="Word"><a href="#Word" class="headerlink" title="Word"></a>Word</h2><p><a href="https://jingyan.baidu.com/article/5d6edee2b4503c99eadeecc0.html">word怎样自动生成目录</a></p><p><a href="https://blog.csdn.net/lord_is_layuping/article/details/90959617">word中设置标题级别的快捷键</a></p><p><a href="https://zhidao.baidu.com/question/1500418098791106499.html">word插入图片显示不全</a></p><p><a href="https://jingyan.baidu.com/article/495ba84124f17479b30edec2.html">怎么在word中插入一张横向文档</a></p><p><a href="https://jingyan.baidu.com/article/ce4366494f80023772afd34e.html">word 文档中代码块样式制作</a></p><h2 id="PPT"><a href="#PPT" class="headerlink" title="PPT"></a>PPT</h2><p>暂无</p><h2 id="Excel"><a href="#Excel" class="headerlink" title="Excel"></a>Excel</h2><p>暂无</p><div style="text-align:center;background:var(--hassan-card-bg);border-radius:12px"><p style="color:#ce6a28;font-size:24px;display:inline-block;margin:6px 0">☕欲知后事如何，</p><p style="color:#a8c212;font-size:24px;display:inline-block;margin:6px 0">且听下回分解🍵</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言：&lt;/p&gt;
+&lt;p&gt;收集了我使用微软Office办公软件时常见问题的解决方案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;Office-所有办公软件&quot;&gt;&lt;a href=&quot;#Office-所有办公软件&quot; class=&quot;headerlink&quot;</summary>
+      
+    
+    
+    
+    <category term="🤗干货分享" scheme="https://hassanwong.top/categories/%F0%9F%A4%97%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="👓Win10" scheme="https://hassanwong.top/tags/%F0%9F%91%93Win10/"/>
+    
+    <category term="💼工作" scheme="https://hassanwong.top/tags/%F0%9F%92%BC%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>美式黑人口语</title>
     <link href="https://hassanwong.top/posts/e43a6529/"/>
     <id>https://hassanwong.top/posts/e43a6529/</id>
@@ -499,31 +529,6 @@
     
     
     <category term="💰经济" scheme="https://hassanwong.top/tags/%F0%9F%92%B0%E7%BB%8F%E6%B5%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客食用须知！</title>
-    <link href="https://hassanwong.top/posts/223fd004/"/>
-    <id>https://hassanwong.top/posts/223fd004/</id>
-    <published>2021-03-25T20:31:00.000Z</published>
-    <updated>2021-04-22T21:06:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>所有教程、文章都会使用下列通用参数，方便表达含义，<del>你我之间的暗号，懂的都懂</del>。</p></blockquote><h2 id="教程-amp-笔记常量申明"><a href="#教程-amp-笔记常量申明" class="headerlink" title="教程&amp;笔记常量申明"></a>教程&amp;笔记常量申明</h2><table><thead><tr><th>参数名</th><th>释义</th></tr></thead><tbody><tr><td>&lt;UserName&gt;</td><td>项目托管平台注册时的用户名（包括 GitHub、Gitee 等）</td></tr><tr><td>&lt;BlogRoot&gt;</td><td>博客本地根目录</td></tr><tr><td>&lt;RepoGit&gt;</td><td>远程仓库 Git 地址</td></tr><tr><td>&lt;RepoName&gt;</td><td>远程仓库名称</td></tr><tr><td>&lt;OriginRepoGit&gt;</td><td>上游仓库 Git 地址</td></tr><tr><td>&lt;BranchName&gt;</td><td>仓库分支名称</td></tr><tr><td>&lt;Custom&gt;</td><td>自定义内容</td></tr><tr><td>&lt;FilePath&gt;</td><td>文件路径，<u>有时可能会加上文件名的后缀</u>。<br>例如：[FilePath_520.jpg]，意为 520.jpg 图片的路径</td></tr><tr><td>&lt;Copy&gt;</td><td>复制内容</td></tr><tr><td>&lt;Email&gt;</td><td>邮箱号</td></tr><tr><td>&lt;URL&gt;</td><td>链接</td></tr><tr><td>&lt;&gt; 👉 []</td><td>意为<strong>可选参数</strong></td></tr><tr><td>Git 三连</td><td>git add .<br>git commit -m “<Custom>“<br>git push origin <BranchName></td></tr><tr><td>Hexo 三连</td><td>hexo clean<br>hexo g<br>hexo s / hexo d</td></tr></tbody></table><h2 id="你我间的约定"><a href="#你我间的约定" class="headerlink" title="你我间的约定"></a>你我间的约定</h2><p><strong>评论时</strong>建议先浏览一遍本站的<a href="/privacy/">隐私协议</a></p><p><strong>阅读时</strong>建议先浏览一遍本站的<a href="/cc/">版权协议</a></p><p>阅读时有疑问请：</p><ul><li>先百度</li><li>也欢迎在文章页面下方的评论区留言</li><li>与文章内容无关的问题可以点击中上方导航栏中的<a href="https://hassanwong.top/comments/">留言信枫</a>进行留言</li><li>还可以给我<a href="mailto:hassanwong@qq.com">发送邮件</a></li></ul><p>最后想了解更多关于 Butterfly 主题博客的相关问题，推荐进 Aki 店长的群</p><p><img src= "https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210404/img/QQ_Group_Aki.png" alt="QQ群"></p>]]></content>
-    
-    
-    <summary type="html">初次拜访的友友们必看！🤝</summary>
-    
-    
-    
-    <category term="💻实用教程" scheme="https://hassanwong.top/categories/%F0%9F%92%BB%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="📝前端" scheme="https://hassanwong.top/tags/%F0%9F%93%9D%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="🔹Hexo" scheme="https://hassanwong.top/tags/%F0%9F%94%B9Hexo/"/>
-    
-    <category term="👾GitHub" scheme="https://hassanwong.top/tags/%F0%9F%91%BEGitHub/"/>
     
   </entry>
   
