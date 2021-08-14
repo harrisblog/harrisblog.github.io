@@ -7,8 +7,8 @@ for (var i = 0; i < arr.length; i++) {
 // 首页顶部文章导航组件
 var arr = document.getElementsByClassName("hometop-group");
 for (var i = 0; i < arr.length; i++) {
-    arr[i].classList.add("wow"); //必要项，添加wow.js标记
-    arr[i].classList.add("animate__zoomIn"); //必要项，添加样式动画
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
 }
 // 侧栏卡片
 var arr = document.getElementsByClassName("card-widget");
@@ -31,14 +31,26 @@ for (var i = 0; i < arr.length; i++) {
 // 朋友圈
 var arr = document.getElementsByClassName("article-sort-item");
 for (var i = 0; i < arr.length; i++) {
-    arr[i].classList.add("wow"); //必要项，添加wow.js标记
-    arr[i].classList.add("animate__zoomIn"); //必要项，添加样式动画
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
 }
 // 公告栏
 var arr = document.getElementsByClassName("notice");
 for (var i = 0; i < arr.length; i++) {
-    arr[i].classList.add("wow"); //必要项，添加wow.js标记
-    arr[i].classList.add("animate__zoomIn"); //必要项，添加样式动画
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
+}
+// 顶部分类条
+var arr = document.getElementsByClassName("category-bar");
+for (var i = 0; i < arr.length; i++) {
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
+}
+// 顶部标签条
+var arr = document.getElementsByClassName("tag-bar");
+for (var i = 0; i < arr.length; i++) {
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
 }
 //初始化函数
 wow = new WOW({
