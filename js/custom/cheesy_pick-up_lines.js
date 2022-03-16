@@ -1,0 +1,1 @@
+"use strict";function cheesy_pick_up_lines(){var t="";for(i=0;i<3;i++)fetch("https://api.uomg.com/api/rand.qinghua?format=text").then(function(n){return n.text()}).then(function(n){t+="<li>"+n+"</li>",document.querySelector("#cheesy_pick-up_lines-container").innerHTML=t}).catch(function(n){console.log(n)})}
