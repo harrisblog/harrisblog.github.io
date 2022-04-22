@@ -4,8 +4,26 @@ for (var i = 0; i < arr.length; i++) {
     arr[i].classList.add("wow"); //必要项，添加wow.js标记
     arr[i].classList.add("animate__zoomIn"); //必要项，添加样式动画
 }
+// Sticky 置顶文章轮播图
+var arr = document.getElementsByClassName("sticky");
+for (var i = 0; i < arr.length; i++) {
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
+}
+// GitCalendar
+var arr = document.getElementsByClassName("gitcalendar");
+for (var i = 0; i < arr.length; i++) {
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
+}
+// 随机文章-走路人群
+var arr = document.getElementsByClassName("random_people");
+for (var i = 0; i < arr.length; i++) {
+    arr[i].classList.add("wow");
+    arr[i].classList.add("animate__zoomIn");
+}
 // 首页顶部文章导航组件
-var arr = document.getElementsByClassName("hometop-group");
+var arr = document.getElementsByClassName("category_tag-group");
 for (var i = 0; i < arr.length; i++) {
     arr[i].classList.add("wow");
     arr[i].classList.add("animate__zoomIn");

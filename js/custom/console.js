@@ -30,5 +30,5 @@ ________________________________________________________________________________
     console.log(string.makeMulti());
     console.log(getTimeState_console());
     console.log("欢迎访问%cHassan's Blog", "color:#81D8CF;font-weight:bold");
-    console.log("遇到你很幸运💜");
+    console.log("遇到你很幸运 💛💙");
 }
