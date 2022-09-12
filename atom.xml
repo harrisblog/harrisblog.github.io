@@ -6,7 +6,7 @@
   <link href="https://hassanwong.top/atom.xml" rel="self"/>
   
   <link href="https://hassanwong.top/"/>
-  <updated>2022-05-08T20:40:00.000Z</updated>
+  <updated>2022-08-21T14:00:00.000Z</updated>
   <id>https://hassanwong.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>打印机使用日记——吐槽蛋疼的加墨方式</title>
+    <link href="https://hassanwong.top/posts/d5b87a06/"/>
+    <id>https://hassanwong.top/posts/d5b87a06/</id>
+    <published>2022-08-21T14:00:00.000Z</published>
+    <updated>2022-08-21T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这款是<strong>佳能腾彩MG2580S</strong>打印机，从我哥家那借来的，他已几年没有使用，也忘了当初的一些使用过程，并且人在外地，所以我就不麻烦他了，打算自己查阅并摸索使用方法。</p><p>现在心情十分糟糕，因为我已经花了半天的时间在打印机上了，现在满手都是三四种颜色的墨水，其实它明明是一件看得着很简单的事情，这款打印机又不是打印店用的那种按钮特别多，需要一一弄清楚，但就是各种相关事情加起来能把我搞疯！</p><p>首先第一个挫折是，需要安装驱动，于是我在佳能官网找到了这款驱动，但是在安装过程中，显示MP driver还没有下载，于是乎我在百度找了半天，但都没有找到解决方案，最后阴差阳错在<a href="https://www.bilibili.com/video/BV1sF411E7QC">B站的一个视频</a>里找到了解决方案，我可能在官网找错了驱动。第二个挫折就是，它的三个指示灯在亮，有时候三个全亮，有时候其中两个灯在亮，在网上查了后得知，分别有不同的意思以及不同的故障原因，例如：没有墨水了，墨盒接触不良，墨盒坏了等等，就接触不良这个原因，我来来回回安装/拆卸了十几次，然后墨水也加了很多次，第一次使用，没有经验，而且我只是打印几张纸而已，也别问为什么不在外面打印，我家附近没有专门的打印店，而且我一个工科生，总是要了解如何使用打印机的，有这个借的机会为何不把握呢？就这个加墨水的过程我得好好吐槽吐槽，我借来的东西还包括一个收纳盒，里边有四瓶墨水，颜色分别是黑红蓝黄，还有三支针管，为啥不直接把墨水往墨盒里倒啊？还要搞这么麻烦，需要用针把墨吸出来然后再挤到墨盒里。一开始没有经验，我把针管活塞拔了，然后往里倒墨水，我想着针头的孔小，应该有大气压的缘故可以使它不漏出来，结果倒进去的墨水直接从针头处全漏了，给我一种鼻血的感觉，没有任何水的张力，直接往下疯狂地掉，漏到我手上加桌子上，印子在手上还洗不掉，气s我了。最后思考一番，应该是要直接从墨水瓶里吸到注射器里，再注射到墨盒里，但这无法一人完成，于是我让我爸倾斜拿着墨水瓶，我用注射器吸，主要那个墨水瓶口小、瓶身高且墨水不多了，需要把瓶子倾斜着，我再左手捏着注射器，右手拉活塞将墨水吸进来，最后注射到墨水盒里，且不说我拔了活塞这件事导致我手上染了很多墨水，就算我正常操作，也会不由自主碰到墨水，例如，针管注射完了后，墨盒的进墨口周围多少会粘点墨，然后扭瓶盖的时候，也会有部分墨水溢出来，总而言之，给墨盒加墨水的整个操作非常不优雅不丝滑，浪费了我很多时间，而且还染了我一手五颜六色，在此敢问发明者，有没有更合适的加墨方案？？？</p><p>说到这，你以为完了？成功了？没有，打印机好不容易被调整到可以顺利执行打印操作的状态（因为墨水盒有问题的话，它是不会工作的），打印出来的纸张只有一丢丢墨水，无法观看，我已经加了很多次墨水了，还是没有用，我就差整瓶往里灌了，要知道往里加一次墨水很麻烦的，上一段已经吐槽过。最后，以失败告终，虽然很难受，但我至少比未使用过打印机的人多一些经验。这次失败，我推测是硬件问题，大概率是需要更换一个墨盒，<strong>我未来要买打印机的话，会额外看加墨方式是否优雅</strong>，我不希望在加墨过程中费时费力。</p><p>我真的是在某些方面勇于探索并且愿意拼搏到成功的那一刻，但天有不测风云，还得接受失败，也正好及时止损。</p><blockquote><p>对了，记录一个小技巧：<strong>长按“停止键”8秒，可以刷新墨盒接触状态</strong>。</p><p>比如墨盒接触不良，你重新安装上去后，要执行以上操作，橙色指示灯状态才会刷新。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这款是&lt;strong&gt;佳能腾彩MG2580S&lt;/strong&gt;打印机，从我哥家那借来的，他已几年没有使用，也忘了当初的一些使用过程，并且人在外地，所以我就不麻烦他了，打算自己查阅并摸索使用方法。&lt;/p&gt;
+&lt;p&gt;现在心情十分糟糕，因为我已经花了半天的时间在打印机上了，现在满手</summary>
+      
+    
+    
+    
+    <category term="💬茶余饭后" scheme="https://hassanwong.top/categories/%F0%9F%92%AC%E8%8C%B6%E4%BD%99%E9%A5%AD%E5%90%8E/"/>
+    
+    
+    <category term="🖨打印机" scheme="https://hassanwong.top/tags/%F0%9F%96%A8%E6%89%93%E5%8D%B0%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>用Python批量读取本地文本里的图片链接并下载到本地</title>
@@ -304,6 +329,35 @@
   </entry>
   
   <entry>
+    <title>英国留学前的准备工作</title>
+    <link href="https://hassanwong.top/posts/4d74f95b/"/>
+    <id>https://hassanwong.top/posts/4d74f95b/</id>
+    <published>2022-03-07T19:24:00.000Z</published>
+    <updated>2022-09-12T16:05:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>我将网上的一些信息收集于此篇文章，并结合了自己的做法与经验，旨在做好去英国留学前的各项准备，希望能帮到自己以及路过的朋友们，如果是去其它国家留学的话，本文也可以帮助到一些。</p></blockquote><h1 id="行李清单"><a href="#行李清单" class="headerlink" title="行李清单"></a>行李清单</h1><blockquote><p>以下是我自己的物品清单，仅供参考</p></blockquote><h2 id="学习类"><a href="#学习类" class="headerlink" title="学习类"></a>学习类</h2><ul><li>文具盒，里边装着一些常用文具</li></ul><h2 id="工具类"><a href="#工具类" class="headerlink" title="工具类"></a>工具类</h2><ul><li>充电宝（20000）</li><li>眼镜x2</li><li>行李箱28寸x2</li><li>充电线和充电头xN</li><li>双肩包和大旅行手提包</li><li>剃须刀</li><li>雨伞</li><li>指甲刀</li><li>迷你折叠剪刀</li><li>手机</li><li>头戴耳机和AirPods</li><li>充电器</li><li>剃头电推子</li><li>手机壳</li><li>手机支架</li><li>智云稳定器</li><li>行李保护套</li><li>15.6寸便携显示器</li></ul><h2 id="衣物类"><a href="#衣物类" class="headerlink" title="衣物类"></a>衣物类</h2><ul><li>真空袋x8</li><li>短袖xN</li><li>长袖xN</li><li>内裤xN</li><li>长裤xN</li><li>短裤xN</li><li>羽绒服x3</li><li>皮带</li><li>围巾</li></ul><h2 id="基础证照类"><a href="#基础证照类" class="headerlink" title="基础证照类"></a>基础证照类</h2><ul><li><p>身份证</p></li><li><p>护照&amp;签证</p></li><li><p>机票</p></li><li><p>证件照片(1寸2寸各20张)</p></li><li><p>现金70磅</p></li></ul><h1 id="当地购买清单"><a href="#当地购买清单" class="headerlink" title="当地购买清单"></a>当地购买清单</h1><h2 id="生活类"><a href="#生活类" class="headerlink" title="生活类"></a>生活类</h2><ul><li>电饭煲✅</li><li>碗、盘子✅</li><li>台灯✅</li><li>大鼠标垫✅</li><li>电脑显示器✅</li><li>烧水壶✅</li><li>床上四件套</li><li>吹风机</li><li>拖鞋（冬夏）</li><li>插线板和中英转换头</li><li>个人洗护用品（牙刷牙膏洗面奶）</li><li>打薄剪</li></ul><h1 id="住宿"><a href="#住宿" class="headerlink" title="住宿"></a>住宿</h1><blockquote><p>建议提前三四个月租房子，否则就没有多少好房源了。很多留学生偏向于订那些学生公寓，其次考虑社会房源，后者可以不用那么早去订。</p></blockquote><h2 id="House"><a href="#House" class="headerlink" title="House"></a>House</h2><p>价格便宜，共享厨房和卫浴。</p><blockquote><p>我最终选择的是House，断断续续淘了几个月，终于找到了相对来说满意的一个。</p></blockquote><h2 id="En-suit"><a href="#En-suit" class="headerlink" title="En-suit"></a>En-suit</h2><p>独立卧室卫浴，共享厨房</p><h2 id="Suit"><a href="#Suit" class="headerlink" title="Suit"></a>Suit</h2><p>独立卧室，共享厨房卫浴</p><h2 id="Studio"><a href="#Studio" class="headerlink" title="Studio"></a>Studio</h2><p>价格贵，独立卧室卫浴厨房</p><h1 id="签证"><a href="#签证" class="headerlink" title="签证"></a>签证</h1><p>如您还未提交签证申请，请访问英国签证与移民局网站（<a href="https://www.gov.uk/student-visa/apply">GOV.UK</a>）来确定您的签证申请类型和完成申请所需提交的文件。</p><p>如您已经在GOV.UK上完成申请并支付费用，您将转至<a href="https://visa.vfsglobal.com/chn/zh/gbr/your-appointment">VFS Global</a>网站，在一家签证申请中心预约，以便录取您的生物信息（指纹和照片）</p><p><strong>请注意</strong>，从您在 GOV.UK 上填写表格之日起，您现在有 <strong>240</strong> 个日历日可以在签证申请中心进行生物识别。 请确保您在申请时选择的国家/地区的签证申请中心预约，并在 240 个日历日内出席。</p><h1 id="机票"><a href="#机票" class="headerlink" title="机票"></a>机票</h1><blockquote><p>建议提前两三个月买，这样价格会非常便宜</p></blockquote><h2 id="选座"><a href="#选座" class="headerlink" title="选座"></a>选座</h2><ul><li>经济舱第一排的位置，空间稍大，前面没有座位，因此空间较宽敞</li><li>紧急出口旁的座位，相对宽敞（个人推荐）</li><li>位于机舱前部的座位，上下机更快</li><li>靠窗位置，可欣赏风景</li><li>机翼附近的位置，不易感觉到飞机颠簸</li><li>靠过道位置，腿部自由空间大</li></ul><h1 id="银行卡"><a href="#银行卡" class="headerlink" title="银行卡"></a>银行卡</h1><p>推荐多办理几张银行卡，把鸡蛋放进多个篮子里，因为英国这边很容易锁卡，如果你进出金额过大的话。</p><p>大额银行卡推荐：Lloyds, Barclays, HSBC</p><p>日常购物卡推荐：Starling, Monzo</p><blockquote><p>结束语：</p><p>有很多细节本文可能没有详细记录，我推荐在小红书App里搜索，很多留学生倾向于在此App里发经验贴，非常实用。</p><p>最后，祝路过的留学生们能够顺利出国留学。Peace~</p></blockquote><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><ul><li><p><a href="https://zhuanlan.zhihu.com/p/381951552">手把手教你：英国留学生（students）签证申请步骤 - 知乎 (zhihu.com)</a></p></li><li><p><a href="https://zhuanlan.zhihu.com/p/401457195">VFS Global系统预约英国签证中心操作详解2021版 - 知乎 (zhihu.com)</a></p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;我将网上的一些信息收集于此篇文章，并结合了自己的做法与经验，旨在做好去英国留学前的各项准备，希望能帮到自己以及路过的朋友们，如果是去其它国家留学的话，本文也可以帮助到一些。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;行李清单&quot;&gt;&lt;a hr</summary>
+      
+    
+    
+    
+    <category term="🤗干货分享" scheme="https://hassanwong.top/categories/%F0%9F%A4%97%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="🌏留学" scheme="https://hassanwong.top/tags/%F0%9F%8C%8F%E7%95%99%E5%AD%A6/"/>
+    
+    <category term="🌈英国" scheme="https://hassanwong.top/tags/%F0%9F%8C%88%E8%8B%B1%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MyBatis框架笔记</title>
     <link href="https://hassanwong.top/posts/93fcac00/"/>
     <id>https://hassanwong.top/posts/93fcac00/</id>
@@ -507,58 +561,6 @@
     <category term="🔠英语" scheme="https://hassanwong.top/tags/%F0%9F%94%A0%E8%8B%B1%E8%AF%AD/"/>
     
     <category term="🦆雅思" scheme="https://hassanwong.top/tags/%F0%9F%A6%86%E9%9B%85%E6%80%9D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>iPhone13香吗？聊聊我的使用感受</title>
-    <link href="https://hassanwong.top/posts/8e70e235/"/>
-    <id>https://hassanwong.top/posts/8e70e235/</id>
-    <published>2021-10-16T00:44:00.000Z</published>
-    <updated>2021-10-31T17:12:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>我是 9.28 号官网下单 iPhone 13，10.14 号到，可把我等的啊 🤣</p></blockquote><p>上一部我用的是荣耀 Play，用到一年半的时候开始感到卡顿，然后愈发不可收拾，期间我用了很多方法，如卸载不常用 APP，转移媒体文件到电脑中，甚至恢复出厂设置过 2 次，于是勉强又撑了一年半，而现在实在顶不住于是冲了“预谋已久”的 iPhone 13。</p><p>谈一谈 iPhone 13 我的使用感受吧，首先是<strong>页面</strong>，我觉得它的各种切换动画很流畅，善用各种颜色，每个自带 APP 页面基本上是黑白灰再搭配一个主题色，整体设计很符合我的审美，有一种简约高级感，尤其再搭配上那经典的毛玻璃页面。美中不足的是 13 要是像 Pro 那样有高刷就好，不求 120Hz，90 也行啊。</p><p>再说说<strong>外观</strong>，很多人不喜欢这个硬朗直板的手机轮廓，但我还挺喜欢的，超瓷晶面板加上航空级铝金属边框，我觉得整体观感很干净利落，手感实实在在。然后它的刘海屏也是饱受争议，今年居然还进步了，刘海面积相比 iPhone 12 缩小了 20%，其实我不在乎刘海的有无，不影响正常功能使用就行（<del>经典苹果用户的包容</del>）。</p><p>背后的<strong>摄像头</strong>采取了对顶角布局，镜头模组面积保持不变的情况下，镜头相较于去年大了一点，我觉得 iPhone 13 的拍出来的照片质量还行，前天我同学过生日，我给他拍许愿照时，我发现火焰拍得很清晰，火焰边缘锐化的不错，尤其和我另一个同学 iPhone X 拍的对比后，但依然存在绿色鬼影 😅，希望 iPhone 未来系列能解决这个问题。然后它的超广角我也挺喜欢，以后有空可以在户外试试，拍些有镜头拉伸感的照片。</p><p><strong>APP</strong>的话，谈谈两个我喜欢的苹果自带 APP 吧，第一个是<u>库乐队</u>，当然我去年在 iPad 2020 里就体验过，对于我这种喜欢音乐的小白来说，无疑是个上手快、对新手友好的编曲 APP，当然要编得好听还得学学乐理。第二个是<u>快捷指令</u>🎉，你可以自定义一系列手机操作，超级方便，比如一键打开微信扫码、健康码等等。也可以写些自动化脚本，比如每天早上八点准时播放音乐、手机充满电时播放声音提醒你拔掉充电头等等，最近几天研究了一下快捷指令，简直程序员狂喜，很亲切，不过对非程序员人群也比较友好，起码都是中文，稍微了解一下，就可以写出很多快捷指令，它将会给你生活带来很大的便利。要说缺点的话，我觉得有些自带 APP 对国内用户不太友好，也许被我国禁了，在国外才能正常使用。</p><p>再说说 <strong>IOS 15 的新功能</strong>，我最喜欢的是它能通过 AI 自动识别图片，假若某天你需要找你家猫猫的照片，直接在搜索栏里打上“猫”就可以找到和猫相关的图片，非常方便，不用在若干张图片里一个一个找。</p><p>最后，谈谈其它方面——<strong>电量</strong>，个人感觉充电速度挺快的，至少和我前任对比的话，然后它充到 80%时会自动开启涓流模式以保护电池。待机时长我觉得很满意，虽电池容量小，但整体耗电较少，使用上不会让我有电量危机。再说说<strong>信号</strong>，这个得吐槽吐槽，在寝室里偶尔会没有信号，我目前只希望，以后支付和展示健康码时不要突然断网！那样我会非常尴尬脚趾抓地。</p><p>13 建不建议买呢？我觉得还是因人而异，按需考虑是否购买。再回答下本文标题——iPhone13 香吗？综合考虑的话，我觉得香。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;我是 9.28 号官网下单 iPhone 13，10.14 号到，可把我等的啊 🤣&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;上一部我用的是荣耀 Play，用到一年半的时候开始感到卡顿，然后愈发不可收拾，期间我用了很多方法，如卸载不常用 APP，</summary>
-      
-    
-    
-    
-    <category term="💬茶余饭后" scheme="https://hassanwong.top/categories/%F0%9F%92%AC%E8%8C%B6%E4%BD%99%E9%A5%AD%E5%90%8E/"/>
-    
-    
-    <category term="🍎苹果产品" scheme="https://hassanwong.top/tags/%F0%9F%8D%8E%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网页广告多，太多干扰内容怎么办？</title>
-    <link href="https://hassanwong.top/posts/5017622/"/>
-    <id>https://hassanwong.top/posts/5017622/</id>
-    <published>2021-10-04T21:40:00.000Z</published>
-    <updated>2021-10-04T21:40:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>有时候搜索一些问题，很多点进去的网站都看起来眼花缭乱，关键是里面穿插着各种小广告，二维码，跳转链接，但你又不是站长，也没有办法去改别人的网站，那怎么办呢？</p><p>友友们可能会想到可以安装去除广告的插件，说到这我分享一篇我看过的文章：<a href="https://blog.zhheo.com/p/8818601d.html">Heomagic 08 | Chrome 网页去广告插件推荐</a>，大家有兴趣可以试试该文章推荐的插件。如果友友们有更好用的插件麻烦留言告诉俺。</p><p>本篇就说说我最近发现的小妙招，话说某天我突然在 Cent 浏览器设置中看到了<code>样式文件</code>按钮，于是象征性的写了一些 CSS 代码并把文件上传进去，发现果然能控制网页的样式，我猜这个设置的最初目的是想让有能力的人自定义更改一些常用页面的外观，比如给搜索页面换个自己喜欢的背景什么的。但这些我都不感冒，我只想通过 CSS 代码去掉一些常用网页的广告，说白了就是<u>利用类名或 ID 定位到组件，再写个 display: none;就完事</u>。</p><p><img src= "https://cdn.jsdelivr.net/npm/hassan-assets/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/npm/hassan-assets/posts/TooMuchAds/Snipaste_2021-10-05_16-59-30.png" alt="Cent Browser"></p><p>代码示例：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;<span class="selector-tag">Custom</span> &gt; &#123;</span><br><span class="line">  <span class="attribute">display</span>: none;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>如果对 CSS 不了解，建议稍微学一下噢~</p><p><strong>优点</strong>：能自定义屏蔽内容，不一定是广告，也可以是其它不想看到的内容</p><p><strong>缺点</strong>：</p><ol><li>不适配所有浏览器。目前发现只有 Cent 浏览器有样式设置，Chrome、Edge 里没有找到</li><li>网页加载速度不会因为没有广告而变快。<code>display: none;</code>的缺点大家也知道，虽可屏蔽您选中的组件，但网页还是得加载一次它，不过问题不大。</li><li>给每个网页写屏蔽代码很累。在这里建议最好对你常用的网站，针对性地写 CSS 屏蔽代码，否则太累了，这也是缺点所在。同时，不同的网站命名风格不同，世上所有的站长不会都傻里傻气的给广告整一个<code>advertisement</code>的类名或 ID 吧？一小段代码能屏蔽所有网站的广告那还得了，听懂掌声 👏</li></ol><p><strong>注意</strong>：根据类名或 ID 定位组件时，注意其精准性，指不定其它网站也有同名的组件，恰好那部分内容你又需要看。打个不恰当的比方，你直接把 div 给屏蔽掉了，这还像话吗？</p><p>虽然我的这个方法不能百分之百帮到所有看此篇文章的人，但能帮一个是一个 😀，至少我目前用的爱不释手哈哈哈，感觉寻到了宝藏。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;有时候搜索一些问题，很多点进去的网站都看起来眼花缭乱，关键是里面穿插着各种小广告，二维码，跳转链接，但你又不是站长，也没有办法去改别人的网站，那怎么办呢？&lt;/p&gt;
-&lt;p&gt;友友们可能会想到可以安装去除广告的插件，说到这我分享一篇我看过的文章：&lt;a href=&quot;https://</summary>
-      
-    
-    
-    
-    <category term="🤗干货分享" scheme="https://hassanwong.top/categories/%F0%9F%A4%97%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="📝前端" scheme="https://hassanwong.top/tags/%F0%9F%93%9D%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
