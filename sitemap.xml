@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.harriswong.top/posts/d0dfb99d/</loc>
+    <loc>https://blog.harriswong.top/tags/index.html</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/videoparsing/index.html</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/ymts/index.html</loc>
     
     <lastmod>2023-06-17</lastmod>
     
@@ -10,6 +24,27 @@
   
   <url>
     <loc>https://blog.harriswong.top/manifest.json</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/comments/index.html</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/friendcircle/index.html</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/gallery/index.html</loc>
     
     <lastmod>2023-06-17</lastmod>
     
@@ -51,21 +86,21 @@
   </url>
   
   <url>
-    <loc>https://blog.harriswong.top/tags/index.html</loc>
+    <loc>https://blog.harriswong.top/gallery/ArticleCover/index.html</loc>
     
     <lastmod>2023-06-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.harriswong.top/videoparsing/index.html</loc>
+    <loc>https://blog.harriswong.top/gallery/WendyZhang/index.html</loc>
     
     <lastmod>2023-06-17</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.harriswong.top/ymts/index.html</loc>
+    <loc>https://blog.harriswong.top/img/siteicon/README.html</loc>
     
     <lastmod>2023-06-17</lastmod>
     
@@ -107,42 +142,7 @@
   </url>
   
   <url>
-    <loc>https://blog.harriswong.top/comments/index.html</loc>
-    
-    <lastmod>2023-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/friendcircle/index.html</loc>
-    
-    <lastmod>2023-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/gallery/index.html</loc>
-    
-    <lastmod>2023-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/gallery/ArticleCover/index.html</loc>
-    
-    <lastmod>2023-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/gallery/WendyZhang/index.html</loc>
-    
-    <lastmod>2023-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/img/siteicon/README.html</loc>
+    <loc>https://blog.harriswong.top/posts/d0dfb99d/</loc>
     
     <lastmod>2023-06-17</lastmod>
     
