@@ -30,48 +30,6 @@
   </url>
   
   <url>
-    <loc>https://blog.harriswong.top/categories/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/cc/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/comments/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/friendcircle/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/gallery/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.harriswong.top/link/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.harriswong.top/notice/index.html</loc>
     
     <lastmod>2023-07-20</lastmod>
@@ -100,6 +58,27 @@
   </url>
   
   <url>
+    <loc>https://blog.harriswong.top/log/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/gallery/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/link/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.harriswong.top/gallery/ArticleCover/index.html</loc>
     
     <lastmod>2023-07-20</lastmod>
@@ -121,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://blog.harriswong.top/log/index.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.harriswong.top/about/index.html</loc>
     
     <lastmod>2023-07-20</lastmod>
@@ -136,6 +108,34 @@
   
   <url>
     <loc>https://blog.harriswong.top/bb/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/categories/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/cc/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/comments/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.harriswong.top/friendcircle/index.html</loc>
     
     <lastmod>2023-07-20</lastmod>
     
